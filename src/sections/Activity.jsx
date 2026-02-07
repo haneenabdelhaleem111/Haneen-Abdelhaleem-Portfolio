@@ -3,7 +3,7 @@ import { Award, Presentation } from "lucide-react";
 const activities = [
   {
     title: "Soft Skills Instructor",
-    logo: "/activities/UCCD.jpg",
+    logo: "/activities/UCCD.webp",
     jobTitle: "",
     period: "2022 - Present",
     benefits: [
@@ -21,7 +21,7 @@ const activities = [
   },
   {
     title: "IEEE Mansoura Student Branch",
-    logo: "/activities/IEEE.png",
+    logo: "/activities/IEEE.webp",
     jobTitle:
       "Ex-Vice chairperson - Former Media Sponsors team leader - Former Logistics volunteer",
     period: "2020 - 2024",
@@ -34,7 +34,7 @@ const activities = [
   },
   {
     title: "IEEE Day Ambassador held at New Giza University",
-    logo: "/activities/badge.png",
+    logo: "/activities/badge.webp",
     jobTitle: "IEEE Day Ambassador | Logistics & Cross-Functional Teams",
     period: "2023",
     benefits: [
@@ -51,7 +51,7 @@ const activities = [
   },
   {
     title: "CAT Reloaded",
-    logo: "/activities/CAT reloaded.jpg",
+    logo: "/activities/CAT reloaded.webp",
     jobTitle: " Former Vice PR head - Former Logistics volunteer ",
     period: "2020 - 2024",
     benefits: [

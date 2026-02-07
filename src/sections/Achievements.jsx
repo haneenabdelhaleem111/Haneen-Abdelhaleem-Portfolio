@@ -13,7 +13,7 @@ const achievements = [
       "A mobile application designed to support epilepsy patients through monitoring, alerts, and medical awareness, Website for awareness and an e-commerce website for sale of our headband, Want to know more visit the website's link in the projects section",
     role: "Front-End Developer / Mobile Developer",
     tools: "React Native, UI/UX",
-    image: "/achievements/hack.jpeg",
+    image: "/achievements/hack.webp",
     date: "November, 2024",
   },
   {
@@ -24,7 +24,7 @@ const achievements = [
       "A mobile application designed to support epilepsy patients through monitoring, alerts, and medical awareness, Website for awareness and an e-commerce website for sale of our headband, Want to know more visit the website's link in the projects section",
     role: "Front-End Developer / Mobile Developer",
     tools: "React Native, UI/UX",
-    image: "/achievements/Creativa.jpg",
+    image: "/achievements/Creativa.webp",
     date: "December, 2024",
   },
   {
@@ -34,7 +34,7 @@ const achievements = [
       "A mobile application designed to support epilepsy patients through monitoring, alerts, and medical awareness, Website for awareness and an e-commerce website for sale of our headband, Want to know more visit the website's link in the projects section",
     role: "Front-End Developer / Mobile Developer",
     tools: "React Native, UI/UX",
-    image: "/achievements/sanam.jpeg",
+    image: "/achievements/sanam.webp",
     date: "December, 2024",
   },
   {
@@ -45,7 +45,7 @@ const achievements = [
       "A mobile application designed to support epilepsy patients through monitoring, alerts, and medical awareness, Website for awareness and an e-commerce website for sale of our headband, Want to know more visit the website's link in the projects section",
     role: "Front-End Developer / Mobile Developer",
     tools: "React Native, UI/UX",
-    image: "/achievements/dell.jpeg",
+    image: "/certificates/dell.webp",
     date: "August, 2025",
   },
   {
@@ -55,7 +55,7 @@ const achievements = [
       "A project made for the agriculture, as a sensor to be put in the field to detect which crop is better to be planted, from the field's minerals that are available",
     role: "Team Member – Business developer",
     tools: "Problem Solving, Teamwork, Presentation",
-    image: "/achievements/hult.jpg",
+    image: "/achievements/hult.webp",
     date: "March, 2022",
   },
 ];

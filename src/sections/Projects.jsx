@@ -5,7 +5,7 @@ const projects = [
   {
     id: 1,
     title: "Portfolio Website",
-    image: "/projects/Portfolio.png",
+    image: "/projects/Portfolio.webp",
     description:
       "Personal portfolio showcasing my projects, experience, and contact information.",
     technologies: ["React.js", "Tailwind CSS", "Vite"],
@@ -18,7 +18,7 @@ const projects = [
   {
     id: 2,
     title: "Elemshaty Pharmacy Website",
-    image: "/projects/Elemshaty.png",
+    image: "/projects/Elemshaty.webp",
     description:
       "Freelance project for Elemshaty Pharmacy, a WordPress-based pharmacy website with product management and offers system.",
     technologies: ["WordPress", "WooCommerce", "Elementor"],
@@ -33,7 +33,7 @@ const projects = [
   {
     id: 3,
     title: "Neurofy Website",
-    image: "/projects/Neurofy.png",
+    image: "/projects/Neurofy.webp",
     description:
       "Neurofy, graduation project, a responsive website for an epilepsy monitoring application with modern UI and accessibility features.",
     technologies: ["React", "Tailwind CSS", "Netlify"],
@@ -46,7 +46,7 @@ const projects = [
   {
     id: 4,
     title: "URL Shortening API Challenge",
-    image: "/projects/URL-shortenner.png",
+    image: "/projects/URL-shortenner.webp",
     description:
       "A Frotend Mentor challenge that allows users to shorten long URLs using a RESTful API.",
     technologies: ["React.js", "Tailwind CSS", "APIs"],
@@ -57,7 +57,7 @@ const projects = [
   {
     id: 5,
     title: "El-Whatts Landing Page",
-    image: "/projects/El-Whatts.png",
+    image: "/projects/El-Whatts.webp",
     description:
       "Arabic responsive landing page for WhatsApp marketing service.",
     technologies: ["HTML5", "Bootstrap CSS", "JavaScript"],

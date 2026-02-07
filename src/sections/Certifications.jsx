@@ -8,7 +8,7 @@ const certifications = [
     date: "October 2025",
     info: "Completed and attended a 3-month internship as a Fullstack Developer, gaining practical experience in building full-stack applications using .NET and React.js.",
     category: "Internship",
-    image: "/certificates/azm.jpeg",
+    image: "/certificates/azm.webp",
   },
   {
     name: "UX Design Fundamentals",
@@ -16,7 +16,7 @@ const certifications = [
     date: "September 2024",
     info: "Learned design principles and usability testing.",
     category: "Course",
-    image: "/certificates/Ux.jpeg",
+    image: "/certificates/Ux.webp",
   },
   {
     name: "ITIDA Gigs",
@@ -24,7 +24,7 @@ const certifications = [
     date: "July 2025",
     info: "A 3-months freelance training program in ITIDA, had the required skills to be a freelancer",
     category: "Internship",
-    image: "/certificates/itida.jpeg",
+    image: "/certificates/itida.webp",
   },
   {
     name: "Agile Explorer IBM",
@@ -32,7 +32,7 @@ const certifications = [
     date: "November 2024",
     info: "Got the experience of Agile Methodologies and Scrum Master.",
     category: "Course",
-    image: "/certificates/ibm.jpeg",
+    image: "/certificates/ibm.webp",
   },
   {
     name: "Database Fundamentals",
@@ -40,7 +40,7 @@ const certifications = [
     date: "February 2024",
     info: "Learned database design and management.",
     category: "Course",
-    image: "/certificates/database.jpeg",
+    image: "/certificates/database.webp",
   },
   {
     name: "Product Management",
@@ -48,7 +48,7 @@ const certifications = [
     date: "June 2025",
     info: "Learned product management and agile methodologies.",
     category: "Course",
-    image: "/certificates/sprints.jpeg",
+    image: "/certificates/sprints.webp",
   },
   {
     name: "Internship Frontend Development",
@@ -56,7 +56,7 @@ const certifications = [
     date: "March 2023",
     info: "Completed and attended a 3-month internship as a Frontend Developer, gaining practical experience in building responsive landing pages and improving UI components with modern web technologies.",
     category: "Internship",
-    image: "/certificates/el-mawkaa.jpeg",
+    image: "/certificates/el-mawkaa.webp",
   },
   {
     name: "Frontend Development Challenger track",
@@ -64,7 +64,7 @@ const certifications = [
     date: "March 2022",
     info: "Completed the challenger trackpowered by itida and udacity",
     category: "Course",
-    image: "/certificates/egfwd.jpeg",
+    image: "/certificates/egfwd.webp",
   },
   {
     name: "Certificate of Recognition in Dell Competition 5th place",
@@ -72,7 +72,7 @@ const certifications = [
     date: "August 2025",
     info: "Certificate of recognition for 5th place in Dell Competition for the graduation project, Neurofy",
     category: "Competition",
-    image: "/certificates/dell.jpeg",
+    image: "/certificates/dell.webp",
   },
   {
     name: "Certificate of Appreciation in Ai & IoT Competition",
@@ -80,7 +80,7 @@ const certifications = [
     date: "May 2025",
     info: "Certificate of appreciation for the graduation project, Neurofy",
     category: "Competition",
-    image: "/certificates/ai&iot.jpeg",
+    image: "/certificates/ai&iot.webp",
   },
 ];
 
