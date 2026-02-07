@@ -12,18 +12,22 @@ const projects = [
     category: "React",
     github: "https://github.com/yourusername/portfolio",
     live: "https://your-portfolio.netlify.app/",
+    linkedin:
+      "https://www.linkedin.com/posts/haneen-abdulhaleem20306_frontenddeveloper-webdevelopment-react-activity-7420078841848647680-r60E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdGDJ0B_4rcji6cVQtUoRDP0RBxG-GRtM0",
   },
   {
     id: 2,
     title: "Elemshaty Pharmacy Website",
     image: "/projects/Elemshaty.png",
     description:
-      "A WordPress-based pharmacy website with product management and offers system.",
+      "Freelance project for Elemshaty Pharmacy, a WordPress-based pharmacy website with product management and offers system.",
     technologies: ["WordPress", "WooCommerce", "Elementor"],
     category: "WordPress",
     github:
       "https://github.com/haneenabdelhaleem111/Elemshaty-Pharmacy-Documentation",
     live: "https://el-emshaty-pharmacy.com",
+    linkedin:
+      "https://www.linkedin.com/posts/haneen-abdulhaleem20306_freelance-wordpress-webdesign-activity-7384232759071899648-fnfV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdGDJ0B_4rcji6cVQtUoRDP0RBxG-GRtM0",
   },
 
   {
@@ -31,11 +35,13 @@ const projects = [
     title: "Neurofy Website",
     image: "/projects/Neurofy.png",
     description:
-      "NEurofy, graduation project, a responsive website for an epilepsy monitoring application with modern UI and accessibility features.",
+      "Neurofy, graduation project, a responsive website for an epilepsy monitoring application with modern UI and accessibility features.",
     technologies: ["React", "Tailwind CSS", "Netlify"],
     category: "React",
     github: "https://github.com/haneenabdelhaleem111/neurofy-website",
     live: "https://neurofy-website.netlify.app/",
+    linkedin:
+      "https://www.linkedin.com/posts/haneen-abdulhaleem20306_neurofy-graduationproject-reactjs-activity-7363275086847426560-AQBc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdGDJ0B_4rcji6cVQtUoRDP0RBxG-GRtM0",
   },
   {
     id: 4,

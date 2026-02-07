@@ -33,6 +33,23 @@ const activities = [
     teams: ["Tech Elixir", "Victoris 1", "Career Insider", "Victoris 2"],
   },
   {
+    title: "IEEE Day Ambassador held at New Giza University",
+    logo: "/activities/badge.png",
+    jobTitle: "IEEE Day Ambassador | Logistics & Cross-Functional Teams",
+    period: "2023",
+    benefits: [
+      "Strengthened leadership, communication, and public engagement skills",
+      "Collaborated with cross-functional teams to deliver successful IEEE Day activities",
+      "Built a strong professional network within a global technical community",
+      "Enhanced teamwork, problem-solving, and organizational skills",
+    ],
+    teams: [
+      "Logistics Team",
+      "Media & Promotion Team",
+      "Event Management Team",
+    ],
+  },
+  {
     title: "CAT Reloaded",
     logo: "/activities/CAT reloaded.jpg",
     jobTitle: " Former Vice PR head - Former Logistics volunteer ",

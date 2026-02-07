@@ -1,0 +1,5 @@
+/* In your App.css or Achievements.css */
+.achievements-section .swiper-button-next,
+.achievements-section .swiper-button-prev {
+  color: #ad5d4e; /* same as competitionName */
+}

@@ -1,0 +1,17 @@
+/* Swiper pagination dots */
+.swiper-pagination-bullet {
+  background-color: rgba(173, 93, 78, 0.4); /* #ad5d4e with opacity */
+  width: 10px;
+  height: 10px;
+  opacity: 1;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #ad5d4e;
+}
+/* Move pagination under the cards */
+.swiper-pagination {
+  position: static !important;
+  margin-top: 30px;
+  text-align: center;
+}

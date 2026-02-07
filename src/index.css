@@ -92,7 +92,8 @@ input:-webkit-autofill:active {
     text-shadow: 0 0 30px color-mix(in srgb, #ad5d4e 50%, transparent);
   }
   .glow-border {
-    box-shadow: 0 0 20px color-mix(in srgb, #ad5d4e 20%, transparent),
+    box-shadow:
+      0 0 20px color-mix(in srgb, #ad5d4e 20%, transparent),
       inset 0 0 20px color-mix(in srgb, #ad5d4e 5%, transparent);
   }
 }

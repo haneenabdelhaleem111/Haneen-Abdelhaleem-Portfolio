@@ -1,4 +1,4 @@
-import { Github, ExternalLink, Eye } from "lucide-react";
+import { Github, ExternalLink, Eye, Linkedin } from "lucide-react";
 
 export const ProjectCard = ({ project }) => {
   return (
@@ -56,6 +56,17 @@ export const ProjectCard = ({ project }) => {
           </a>
         )}
 
+        {project.linkedin && (
+          <a
+            href={project.linkedin}
+            target="_blank"
+            rel="noreferrer"
+            className="flex items-center gap-2 text-sm hover:text-[#ad5d4e] transition-colors"
+          >
+            <Linkedin className="w-4 h-4" />
+            LinkedIn
+          </a>
+        )}
         {project.live && (
           <a
             href={project.live}
