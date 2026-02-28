@@ -15,6 +15,7 @@ const projects = [
     linkedin:
       "https://www.linkedin.com/posts/haneen-abdulhaleem20306_frontenddeveloper-webdevelopment-react-activity-7420078841848647680-r60E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdGDJ0B_4rcji6cVQtUoRDP0RBxG-GRtM0",
   },
+
   {
     id: 2,
     title: "Elemshaty Pharmacy Website",
@@ -29,9 +30,20 @@ const projects = [
     linkedin:
       "https://www.linkedin.com/posts/haneen-abdulhaleem20306_freelance-wordpress-webdesign-activity-7384232759071899648-fnfV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdGDJ0B_4rcji6cVQtUoRDP0RBxG-GRtM0",
   },
-
   {
     id: 3,
+    title: "Zan Website",
+    image: "/projects/ZAN.png",
+    description:
+      "Zan, a responsive website for a original perfumes and cosmetics brand, built with WordPress and WooCommerce for product management and SEO optimization.",
+    technologies: ["WordPress", "Woocommerce", "SEO"],
+    category: "WordPress",
+    github: "https://github.com/haneenabdelhaleem111/Zan-Website-Documentation",
+    live: "https://zan2026.com",
+  },
+
+  {
+    id: 4,
     title: "Neurofy Website",
     image: "/projects/Neurofy.webp",
     description:
@@ -43,8 +55,9 @@ const projects = [
     linkedin:
       "https://www.linkedin.com/posts/haneen-abdulhaleem20306_neurofy-graduationproject-reactjs-activity-7363275086847426560-AQBc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdGDJ0B_4rcji6cVQtUoRDP0RBxG-GRtM0",
   },
+
   {
-    id: 4,
+    id: 5,
     title: "URL Shortening API Challenge",
     image: "/projects/URL-shortenner.webp",
     description:
@@ -55,7 +68,7 @@ const projects = [
     live: "https://shrortly.netlify.app/",
   },
   {
-    id: 5,
+    id: 6,
     title: "El-Whatts Landing Page",
     image: "/projects/El-Whatts.webp",
     description:
