@@ -20,12 +20,7 @@ const contactInfo = [
     value: "haneen.abdelhaleem11@gmail.com",
     href: "mailto:haneen.abdelhaleem11@gmail.com",
   },
-  {
-    icon: MessageCircle,
-    label: "WhatsApp",
-    value: "+201009756983",
-    href: "https://wa.me/201009756983",
-  },
+
   {
     icon: Linkedin,
     label: "LinkedIn",
@@ -56,7 +51,7 @@ export const Contact = () => {
 
       if (!serviceId || !templateId || !publicKey) {
         throw new Error(
-          "EmailJS configuration is missing. Please check your environment variables."
+          "EmailJS configuration is missing. Please check your environment variables.",
         );
       }
       console.log(import.meta.env.VITE_EMAILJS_PUBLIC_KEY);
@@ -68,7 +63,7 @@ export const Contact = () => {
           email: formData.email,
           message: formData.message,
         },
-        publicKey
+        publicKey,
       );
 
       setSubmitStatus({
