@@ -78,6 +78,18 @@ const projects = [
     github: "https://github.com/haneenabdelhaleem111/El-Whatts",
     live: "https://haneenabdelhaleem111.github.io/El-Whatts/",
   },
+  {
+    id: 7,
+    title: "The React Quiz",
+    image: "/projects/React-Quiz.png",
+    description:
+      "Interactive quiz app built with React,implementing a timer, dynamic progress bar, updating score after each point and showing the final score at the end.",
+    technologies: ["React.js", "Tailwind CSS", "APIs"],
+    category: "Test Cases",
+    github: "https://github.com/haneenabdelhaleem111/The-React-Quiz/tree/main",
+    linkedin:
+      "https://www.linkedin.com/posts/haneen-abdulhaleem20306_react-frontenddevelopment-javascript-ugcPost-7448477055585042433-PtpH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdGDJ0B_4rcji6cVQtUoRDP0RBxG-GRtM0",
+  },
 ];
 
 const filters = ["All", "React", "WordPress", "Test Cases"];
