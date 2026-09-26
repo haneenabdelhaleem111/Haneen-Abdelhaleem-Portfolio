@@ -1,5 +1,29 @@
 const experiences = [
   {
+    period: "May, 2026 - September, 2026",
+    role: "Web developer - WordPress & Frontend Developer",
+    company: "Ejjadh Digital Solutions Company",
+    description: "Full-time job as a Web developer ",
+    list: [
+      "Developed responsive web interfaces using HTML, CSS, JavaScript, and React.js.",
+      "Customized and maintained WordPress websites based on client and project requirements.",
+      "Implemented website content updates, translations, and UI modifications across multiple WordPress projects.",
+      "Completed front-end styling and CSS customization for a Salla e-commerce website.",
+      "Translated design requirements into responsive and user-friendly web interfaces.",
+      "Collaborated with the development team to deliver website updates and project tasks efficiently.",
+      "Followed clean coding, responsive design, and cross-browser compatibility practices.",
+    ],
+    technologies: [
+      "Html",
+      "CSS",
+      "React.js",
+      "Tailwind CSS",
+      "Git",
+      "WordPress",
+    ],
+    logo: "/logos/ejjadh-logo.svg",
+  },
+  {
     period: "July, 2025 - October, 2025",
     role: "Full Stack Developer Intern",
     company: "Azm Squad Company",
