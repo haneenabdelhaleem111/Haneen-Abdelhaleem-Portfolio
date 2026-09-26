@@ -11,7 +11,7 @@ const projects = [
     technologies: ["React.js", "Tailwind CSS", "Vite"],
     category: "React",
     github: "https://github.com/yourusername/portfolio",
-    live: "https://your-portfolio.netlify.app/",
+    live: "https://haneen-abdelhaleem-portfolio.vercel.app/",
     linkedin:
       "https://www.linkedin.com/posts/haneen-abdulhaleem20306_frontenddeveloper-webdevelopment-react-activity-7420078841848647680-r60E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdGDJ0B_4rcji6cVQtUoRDP0RBxG-GRtM0",
   },
