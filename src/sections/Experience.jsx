@@ -1,8 +1,8 @@
 const experiences = [
   {
     period: "May, 2026 - September, 2026",
-    role: "Web developer - WordPress & Frontend Developer",
-    company: "Ejjadh Digital Solutions Company",
+    role: "Web developer ",
+    company: "Ejjadh Digital Solutions",
     description: "Full-time job as a Web developer ",
     list: [
       "Developed responsive web interfaces using HTML, CSS, JavaScript, and React.js.",
