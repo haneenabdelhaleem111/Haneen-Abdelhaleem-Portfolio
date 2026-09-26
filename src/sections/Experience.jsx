@@ -21,7 +21,7 @@ const experiences = [
       "Git",
       "WordPress",
     ],
-    logo: "/logos/ejjadh-logo.svg",
+    logo: "/logos/logo-ejjadh.png",
   },
   {
     period: "July, 2025 - October, 2025",
